@@ -38,11 +38,3 @@ It uses the [API Ninjas Password Generator API](https://api-ninjas.com/api/passw
 4️⃣ **Open in your browser**
 - Visit http://localhost:3000
 
-  ## 📌 Project Structure
-  📂 Password Generator
-├── server.js
-├── package.json
-├── /public
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
